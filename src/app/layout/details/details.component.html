@@ -1,0 +1,30 @@
+<div class="main">
+  <div class="gallery">
+    <div class="header">
+      <a (click)="goBack()"><img src="assets/images/arrow.png"><div>Back</div></a>
+    </div>
+    <div class="grid">
+      <div class="item" [ngClass]="{'active': currentIndex == i}" *ngFor="let img of data.imgArr; let i = index;" (click)="currentImg = img; currentIndex = i">
+        <span></span>
+        <img src="{{img}}">
+      </div>
+    </div>
+  </div>
+  <div class="info">
+    <div class="wrap">
+      <h1>{{data.code}}</h1>
+      <p>
+        {{data.info}}
+      </p>
+      <p>
+        <strong>Size : </strong>{{data.size}}
+      </p>
+      <p>
+        <strong>Features : </strong>{{data.fea}}
+      </p>
+    </div>
+  </div>
+  <div class="mainframe">
+    <img src="{{currentImg}}">
+  </div>
+</div>

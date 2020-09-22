@@ -1,0 +1,75 @@
+{
+    "about": "This is craft Notebooks",
+    "data": [
+        {
+            "code" : "N 250",
+            "imgUlr" : "assets/notebooks/craft/N 250.jpg",
+            "imgArr" : [
+                "assets/notebooks/craft/N 250 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "N 260",
+            "imgUlr" : "assets/notebooks/craft/N 260.jpg",
+            "imgArr" : [
+                "assets/notebooks/craft/N 260 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "N 620",
+            "imgUlr" : "assets/notebooks/craft/N 620.jpg",
+            "imgArr" : [
+                "assets/notebooks/craft/N 620 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "N 720",
+            "imgUlr" : "assets/notebooks/craft/N 720.jpg",
+            "imgArr" : [
+                "assets/notebooks/craft/N 720 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "N 750",
+            "imgUlr" : "assets/notebooks/craft/N 750.jpg",
+            "imgArr" : [
+                "assets/notebooks/craft/N 750 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "N 751",
+            "imgUlr" : "assets/notebooks/craft/N 751.jpg",
+            "imgArr" : [
+                "assets/notebooks/craft/N 751 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "N 752",
+            "imgUlr" : "assets/notebooks/craft/N 752.jpg",
+            "imgArr" : [
+                "assets/notebooks/craft/N 752 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        }
+    ]
+}

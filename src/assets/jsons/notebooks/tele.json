@@ -1,0 +1,65 @@
+{
+    "about": "This is tele Notebooks",
+    "data": [
+        {
+            "code" : "T 3503 PP",
+            "imgUlr" : "assets/notebooks/tele/T 3503 PP.jpg",
+            "imgArr" : [
+                "assets/notebooks/tele/T 3503 PP oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "T 3503 FMCO",
+            "imgUlr" : "assets/notebooks/tele/T 3503 FMCO.jpg",
+            "imgArr" : [
+                "assets/notebooks/tele/T 3503 FMCO oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "T 8050 PP",
+            "imgUlr" : "assets/notebooks/tele/T 8050 PP.jpg",
+            "imgArr" : [
+                "assets/notebooks/tele/T 8050 PP oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "T 8050 IMP",
+            "imgUlr" : "assets/notebooks/tele/T 8050 IMP.jpg",
+            "imgArr" : [
+                "assets/notebooks/tele/T 8050 IMP oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "T 8051 PP",
+            "imgUlr" : "assets/notebooks/tele/T 8051 PP.jpg",
+            "imgArr" : [
+                "assets/notebooks/tele/T 8051 PP oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "T 8051 IMP",
+            "imgUlr" : "assets/notebooks/tele/T 8051 IMP.jpg",
+            "imgArr" : [
+                "assets/notebooks/tele/T 8051 IMP oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        }
+    ]
+}

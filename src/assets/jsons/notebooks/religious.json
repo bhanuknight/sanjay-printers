@@ -1,0 +1,105 @@
+{
+    "about": "This is Religious Notebooks",
+    "data": [
+        {
+            "code" : "L 7096",
+            "imgUlr" : "assets/notebooks/religious/L 7096.jpg",
+            "imgArr" : [
+                "assets/notebooks/religious/L 7096 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "L 7128",
+            "imgUlr" : "assets/notebooks/religious/L 7128.jpg",
+            "imgArr" : [
+                "assets/notebooks/religious/L 7128 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "L 7192",
+            "imgUlr" : "assets/notebooks/religious/L 7192.jpg",
+            "imgArr" : [
+                "assets/notebooks/religious/L 7192 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "L 7256",
+            "imgUlr" : "assets/notebooks/religious/L 7256.jpg",
+            "imgArr" : [
+                "assets/notebooks/religious/L 7256 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "L 7288",
+            "imgUlr" : "assets/notebooks/religious/L 7288.jpg",
+            "imgArr" : [
+                "assets/notebooks/religious/L 7288 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "L 7320",
+            "imgUlr" : "assets/notebooks/religious/L 7320.jpg",
+            "imgArr" : [
+                "assets/notebooks/religious/L 7320 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "L 7384",
+            "imgUlr" : "assets/notebooks/religious/L 7384.jpg",
+            "imgArr" : [
+                "assets/notebooks/religious/L 7384 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "SBN 7096",
+            "imgUlr" : "assets/notebooks/religious/SBN 7096.jpg",
+            "imgArr" : [
+                "assets/notebooks/religious/SBN 7096 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "SBN 7192",
+            "imgUlr" : "assets/notebooks/religious/SBN 7192.jpg",
+            "imgArr" : [
+                "assets/notebooks/religious/SBN 7192 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        },
+        {
+            "code" : "SBN 7288",
+            "imgUlr" : "assets/notebooks/religious/SBN 7288.jpg",
+            "imgArr" : [
+                "assets/notebooks/religious/SBN 7288 oth1.jpg"
+            ],
+            "size" : " ",
+            "fea" : " ",
+            "info" : " "
+        }
+    ]
+}

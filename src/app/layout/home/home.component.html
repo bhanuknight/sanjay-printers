@@ -1,0 +1,273 @@
+<div class="main">
+  <section>
+    <div class="landing">
+      <div class="content-wrap">
+        <div class="content">
+          <div style="width: 100%; float: left;">
+            <h1>Products that</h1>
+            <h1>Inspire you</h1>
+          </div>
+          <div class="big-button" (click)="scroll('products')">Get Inspired</div>
+        </div>
+        <div class="slider">
+          <div class="banner">
+            <img [ngClass]="{'leaveSlider' : slider == 1, 'enterSlider' : slider == 0}" src="assets/images/banner.jpeg">
+            <img [ngClass]="{'leaveSlider' : slider == 2, 'enterSlider' : slider == 1}" src="assets/images/banner2.jpeg">
+            <img [ngClass]="{'leaveSlider' : slider == 3, 'enterSlider' : slider == 2}" src="assets/images/banner3.jpeg">
+            <img [ngClass]="{'leaveSlider' : slider == 4, 'enterSlider' : slider == 3}" src="assets/images/banner4.jpeg">
+            <img [ngClass]="{'leaveSlider' : slider == 0, 'enterSlider' : slider == 4}" src="assets/images/banner5.jpg">            
+          </div>
+          <div class="red-curtain">
+            <div class="dots">
+              <ul>
+                <li [ngClass]="{'active' : slider == 0}"></li>
+                <li [ngClass]="{'active' : slider == 1}"></li>
+                <li [ngClass]="{'active' : slider == 2}"></li>
+                <li [ngClass]="{'active' : slider == 3}"></li>
+                <li [ngClass]="{'active' : slider == 4}"></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="scroll" (click)="scroll('about')">
+          <div class="dot"></div>
+          <div class="box">
+            Scroll down
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="about">
+    <div class="about">
+      <div class="content-wrap">
+        <div class="half-col" id="mob-wrap" style="padding: 50px 50px 0 50px;">
+          <div class="top-row">
+            <div class="right-frame">
+              <img src="assets/images/right-frame.jpg">
+            </div>
+            <div class="title">
+              <h1>About Us</h1>
+            </div>
+          </div>
+          <div class="bottom-row">
+            <div class="overlay-sq"></div>
+            <div class="bottom-frame">
+              <img src="assets/images/bottom-frame.jpg">
+            </div>
+          </div>
+        </div>
+        <div class="half-col" style="padding-top: 50px;">
+          <div class="about-wrap" #target>
+            <div class="mob title">About Us</div>
+            <div class="para">
+                From its beginning 34 Years ago, till the present day Sanjay Printers & Publishers Private Limited has got innumerable confirmations that the life of hard work, Integrity, commitment and dedication to quality can lead to only one point- Customer delight.
+                <br><br>
+                We Believe that our company is not just an impersonal corporate entity driven by targets, but actually a house of inspired individuals driven by principles.
+            </div>
+          </div>
+          <div class="base-row">
+            <div class="frame-outline"></div>
+            <div class="main-frame">
+              <img src="assets/images/main-frame.jpg">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section id="products">
+    <div class="products">
+      <div class="right-prod">
+        <div class="title">
+          <h1>Our Products & Services</h1>
+        </div>
+        <div class="note-wrap">
+          <div class="note-pic">
+            <img src="assets/images/Notebook.jpg">
+          </div>
+          <div class="prod-list">
+            <div class="head"><span class="big-Al">N</span>OTEBOOKS</div>
+            <ul>
+              <li [routerLink]="['./products','notebooks']" [queryParams]="{ range: 'journal' }">Journal Notebooks</li>
+              <li [routerLink]="['./products','notebooks']" [queryParams]="{ range: 'corporate' }">Corporate Planner Notebooks</li>
+              <li [routerLink]="['./products','notebooks']" [queryParams]="{ range: 'wiro' }">Wiro Notebooks</li>
+              <li [routerLink]="['./products','notebooks']" [queryParams]="{ range: 'craft' }">Craft Notebooks</li>
+              <li [routerLink]="['./products','index']" [queryParams]="{ range: 'telephone' }">Telephone Index</li>
+              <li [routerLink]="['./products','notebooks']" [queryParams]="{ range: 'religious' }">Religious Notebooks</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="left-prod">
+        <div class="note-wrap">
+          <div class="note-pic">
+            <img src="assets/images/leather.jpg">
+          </div>
+          <div class="prod-list">
+            <div class="head"><span class="big-Al">D</span>IARIES</div>
+            <ul>
+              <li [routerLink]="['./products','diaries']" [queryParams]="{ range: 'executive' }">Executive Diaries</li>
+              <li [routerLink]="['./products','diaries']" [queryParams]="{ range: 'a-5' }">A-5 Diaries</li>
+              <li [routerLink]="['./products','diaries']" [queryParams]="{ range: 'super executive' }">Super Executive Diaries</li>
+              <li [routerLink]="['./products','diaries']" [queryParams]="{ range: 'chief' }">Chief Diaries</li>
+              <li [routerLink]="['./products','diaries']" [queryParams]="{ range: 'personal' }">Personal Diaries</li>
+              <li [routerLink]="['./products','diaries']" [queryParams]="{ range: 'economy regular series' }">Economy Regular Series</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="bottom" id="services">
+        <div class="machine-pic">
+          <img src="assets/images/printing.jpg">
+        </div>
+        <div class="range-list">
+          <div class="head">
+            RANGE OF PRODUCTS
+          </div>
+          <ul>
+            <li>Organisers</li>
+            <li>Diaries</li>
+            <li>Books</li>
+            <li>Posters</li>
+            <li>Leaflets</li>
+            <li>Magazines</li>
+            <li>Corporate Brochures</li>
+          </ul>
+        </div>
+        <div class="wired"></div>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="testimonials">
+      <div class="info">
+        <h2>Client Testimonials</h2>
+        <p>It's not easy to create reputation in a competetive market but we are all about reputation</p>
+      </div>
+      <div class="slider">
+        <div class="top-fade"></div>
+        <div class="panel">
+          <ul id="panel">
+            <li>
+              <div class="pic">
+                <div class="circle">
+                  <img src="assets/images/dp.jpg">
+                </div>
+              </div>
+              <div class="remark">
+                <div class="name">Dustin Browman</div>
+                <div class="remark">
+                  Lorem ipsum dolero sety for metfumm
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="pic">
+                <div class="circle">
+                  <img src="assets/images/dp.jpg">
+                </div>
+              </div>
+              <div class="remark">
+                <div class="name">Dustin Browman</div>
+                <div class="remark">
+                  Lorem ipsum dolero sety for metfumm
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="pic">
+                <div class="circle">
+                  <img src="assets/images/dp.jpg">
+                </div>
+              </div>
+              <div class="remark">
+                <div class="name">Dustin Browman</div>
+                <div class="remark">
+                  Lorem ipsum dolero sety for metfumm
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="bottom-fade"></div>
+      </div>
+      <div class="controls">
+        <div class="up" (click)="slideUp()">
+          <img src="../../../assets/images/arrow.png">
+        </div>
+        <div class="down" (click)="slideDown()">
+          <img src="../../../assets/images/arrow.png">
+        </div>
+      </div>
+    </div>
+    <div class="testimonials-after"></div>
+  </section>
+  <section id="contact">
+    <div class="contact">
+      <div class="small-title">Contact Us</div>
+      <div class="contact-wrap">
+        <div class="info">
+          <!-- <div class="wrap">
+              <p class="bold" style="margin-bottom: 10px;">Sanjay Printers & Publishers Pvt. Ltd.</p>
+              <p class="light">Ploy No. 180, Patparganj Industrial Area, Patparganj, New Delhi</p>
+              <br>
+              <p class="bold">+91-9654513595</p>
+              <p class="bold">+91-9654513595</p>
+              <br>
+              <br>
+              <p class="bold">info@sanjayprinters.in</p>
+          </div> -->
+          <div class="wrap">
+              <!-- <p class="bold" style="margin-bottom: 10px;">About Us</p> -->
+              <p class="light">Growth has descended to a secondary place in our list of priorities. Love of our craft and endeavour to make our products better and more beautiful in an efficient manner according to highest international standards, has taken precedence. The growth came on its own.</p>
+              <br>
+              <p class="light">This year is again a special year for us as we have bought completely fresh, inviting and irresistible new range. We hope that you will relish it while using it, as much as we had while creating it.</p>
+          </div>
+        </div>
+        <form>
+          <div class="form">
+            <div class="full-input">
+              <input type="text" placeholder="Name*">
+            </div>
+            <div class="half-input">
+              <input type="text" placeholder="Email*">
+            </div>
+            <div class="half-input">
+              <input type="text" placeholder="Mobile">
+            </div>
+            <div class="full-input">
+              <label>Message*</label>
+              <textarea cols="30" rows="8"></textarea>
+              <label>*Mandatory Fields</label>
+            </div>
+            <div class="full-wrap">
+              <button class="form-button">Submit</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+  <section>
+    <div class="map">
+      <a target="_blank" href="https://www.google.co.in/maps/place/Cuckoo+Diaries/@28.6560982,77.20146,17z/data=!4m5!3m4!1s0x390cfd652e9a2ccd:0xda8f3f5054df0169!8m2!3d28.656063!4d77.2036229?hl=en">
+        <img src="../../../assets/images/map 2.jpg">
+        <div class="text">View Shop in Google Maps</div>
+      </a>
+    </div>
+    <div class="map">
+      <a target="_blank" href="https://www.google.co.in/maps/place/Sanjay+Printers+%26+Publishers+Pvt+Ltd/@28.6426548,77.3126801,17z/data=!3m1!4b1!4m5!3m4!1s0x390ce35b7079bca5:0xa04c94ba47a16f0!8m2!3d28.6426501!4d77.3148688?hl=en&authuser=0">
+        <img src="../../../assets/images/map.jpg">
+        <div class="text">View Factory in Google Maps</div>
+      </a>
+    </div>
+  </section>
+</div>
+<div class="social" [ngClass]="{'scrolled' : isScrolled}">
+  <ul>
+    <li><i class="fa fa-facebook"></i></li>
+    <li><i class="fa fa-instagram"></i></li>
+    <li><i class="fa fa-pinterest-p"></i></li>
+  </ul>
+</div>

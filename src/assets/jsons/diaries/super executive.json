@@ -1,0 +1,102 @@
+{
+    "about": "This is Super Executive diaries",
+    "data": [
+        {
+            "code" : "D 9001 PP",
+            "imgUlr" : "assets/diaries/super executive/D 9001 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/super executive/D 9001 PP oth1.jpg",
+                "assets/diaries/super executive/D 9001 oth2.jpg",
+                "assets/diaries/super executive/D 9001 oth3.jpg"
+            ],
+            "size" : "8.063 inch x 10.18 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination",
+            "info" : "8 State maps, Two Color Inner, One Day a Page Natural Shade, Action Plan in beginning of every month"
+        },
+        {
+            "code" : "D 9001 FMCG",
+            "imgUlr" : "assets/diaries/super executive/D 9001 FMCG.jpg",
+            "imgArr" : [
+                "assets/diaries/super executive/D 9001 FMCG oth1.jpg",
+                "assets/diaries/super executive/D 9001 oth2.jpg",
+                "assets/diaries/super executive/D 9001 oth3.jpg"
+            ],
+            "size" : "8.063 inch x 10.18 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination",
+            "info" : "8 State maps, Two Color Inner, One Day a Page Natural Shade, Action Plan in beginning of every month"
+        },
+        {
+            "code" : "D 9002 PP",
+            "imgUlr" : "assets/diaries/super executive/D 9002 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/super executive/D 9002 PP oth1.jpg"
+            ],
+            "size" : "8.063 inch x 10.18 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination",
+            "info" : "8 State maps, Two Color Inner, One Day a Page, Action Plan in beginning of every month"
+        },
+        {
+            "code" : "D 9002 IMP",
+            "imgUlr" : "assets/diaries/super executive/D 9002 IMP.jpg",
+            "imgArr" : [
+                "assets/diaries/super executive/D 9002 IMP oth1.jpg"
+            ],
+            "size" : "8.063 inch x 10.18 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination",
+            "info" : "8 State maps, Two Color Inner, One Day a Page, Action Plan in beginning of every month"
+        },
+        {
+            "code" : "D 9002 FM",
+            "imgUlr" : "assets/diaries/super executive/D 9002 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/super executive/D 9002 PP oth1.jpg"
+            ],
+            "size" : "8.063 inch x 10.18 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination",
+            "info" : "8 State maps, Two Color Inner, One Day a Page, Action Plan in beginning of every month"
+        },
+        {
+            "code" : "D 9003 PP",
+            "imgUlr" : "assets/diaries/super executive/D 9003 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/super executive/D 9003 PP oth1.jpg",
+                "assets/diaries/super executive/D 9003 oth2.jpg"
+            ],
+            "size" : "8.35 inch x 10.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Velvet Lamination",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 9004 PP",
+            "imgUlr" : "assets/diaries/super executive/D 9004 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/super executive/D 9004 PP oth1.jpg"
+            ],
+            "size" : "8.35 inch x 10.7 inch",
+            "fea" : "Management Information 80 Pages, Yearly Planner on backfly leaf, UV Varnished, Velvet Lamination",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 10004 RX2C",
+            "imgUlr" : "assets/diaries/super executive/D 10004 RX2C.jpg",
+            "imgArr" : [
+                "assets/diaries/super executive/D 10004 RX2C oth1.jpg",
+                "assets/diaries/super executive/D 10004 oth2.jpg"
+            ],
+            "size" : "8.25 inch x 13.2 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf",
+            "info" : "One Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 10004 NCG",
+            "imgUlr" : "assets/diaries/super executive/D 10004 NCG.jpg",
+            "imgArr" : [
+                "assets/diaries/super executive/D 10004 NCG oth1.jpg",
+                "assets/diaries/super executive/D 10004 oth2.jpg"
+            ],
+            "size" : "8.25 inch x 13.2 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf",
+            "info" : "One Color Inner, One Day a Page, Sunday Seperate"
+        }
+    ]
+}

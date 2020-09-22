@@ -1,0 +1,873 @@
+{
+    "about": "This is Executive diaries",
+    "data": [
+        {
+            "code" : "D 8003 PP",
+            "imgUlr" : "assets/diaries/executive/D 8003 PP.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8003 PP oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8003 IMP",
+            "imgUlr" : "assets/diaries/executive/D 8003 IMP.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8003 IMP oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8003 FM",
+            "imgUlr" : "assets/diaries/executive/D 8003 FM.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8003 FM oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8003 FMBR",
+            "imgUlr" : "assets/diaries/executive/D 8003 FMBR.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8003 FMBR oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8003 CR",
+            "imgUlr" : "assets/diaries/executive/D 8003 CR.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8003 CR oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8003 FMCG",
+            "imgUlr" : "assets/diaries/executive/D 8003 FMCG.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8003 FMCG oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8003E PP",
+            "imgUlr" : "assets/diaries/executive/D 8003E PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8003E PP oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "ENGG Information-64 Pages, Two Color ENGG info, One Day a Page"
+        },
+        {
+            "code" : "D 8003E FM",
+            "imgUlr" : "assets/diaries/executive/D 8003E FM.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8003E FM oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8004 PP",
+            "imgUlr" : "assets/diaries/executive/D 8004 PP.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8004 PP oth1.jpg",
+                "assets/diaries/executive/D 8004 oth2.jpg",
+                "assets/diaries/executive/D 8004 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, n Wise Index Cutting, 8 State Maps",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on begining of every month"
+        },
+        {
+            "code" : "D 8004 FM",
+            "imgUlr" : "assets/diaries/executive/D 8004 FM.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8004 FM oth1.jpg",
+                "assets/diaries/executive/D 8004 oth2.jpg",
+                "assets/diaries/executive/D 8004 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, n Wise Index Cutting, 8 State Maps",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on begining of every month"
+        },
+        {
+            "code" : "D 8004 BR",
+            "imgUlr" : "assets/diaries/executive/D 8004 BR.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8004 BR oth1.jpg",
+                "assets/diaries/executive/D 8004 oth2.jpg",
+                "assets/diaries/executive/D 8004 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, n Wise Index Cutting, 8 State Maps",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on begining of every month"
+        },
+        {
+            "code" : "D 8004 IMP",
+            "imgUlr" : "assets/diaries/executive/D 8004 IMP.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8004 IMP oth1.jpg",
+                "assets/diaries/executive/D 8004 oth2.jpg",
+                "assets/diaries/executive/D 8004 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, n Wise Index Cutting, 8 State Maps",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on begining of every month"
+        },
+        {
+            "code" : "D 8004 CG",
+            "imgUlr" : "assets/diaries/executive/D 8004 CG.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8004 CG oth1.jpg",
+                "assets/diaries/executive/D 8004 oth2.jpg",
+                "assets/diaries/executive/D 8004 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, n Wise Index Cutting, 8 State Maps",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on begining of every month"
+        },
+        {
+            "code" : "D 8006 PP",
+            "imgUlr" : "assets/diaries/executive/D 8006 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8006 PP oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "Doctor Info-64 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "Two Color Doctor Info, One Day a Page"
+        },
+        {
+            "code" : "D 8006 FM",
+            "imgUlr" : "assets/diaries/executive/D 8006 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8006 FM oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "Doctor Info-64 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "Two Color Doctor Info, One Day a Page"
+        },
+        {
+            "code" : "D 8006 FMCG",
+            "imgUlr" : "assets/diaries/executive/D 8006 FMCG.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8006 FMCG oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "Doctor Info-64 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "Two Color Doctor Info, One Day a Page"
+        },
+        {
+            "code" : "D 8007 PP",
+            "imgUlr" : "assets/diaries/executive/D 8007 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8007 PP oth1.jpg",
+                "assets/diaries/executive/D 8007 oth2.jpg",
+                "assets/diaries/executive/D 8007 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Cutting",
+            "info" : "8 State maps, Two Color Doctor Info, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8007 IMP",
+            "imgUlr" : "assets/diaries/executive/D 8007 IMP.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8007 IMP oth1.jpg",
+                "assets/diaries/executive/D 8007 oth2.jpg",
+                "assets/diaries/executive/D 8007 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Cutting",
+            "info" : "8 State maps, Two Color Doctor Info, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8007 FM",
+            "imgUlr" : "assets/diaries/executive/D 8007 FM.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8007 FM oth1.jpg",
+                "assets/diaries/executive/D 8007 oth2.jpg",
+                "assets/diaries/executive/D 8007 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Cutting",
+            "info" : "8 State maps, Two Color Doctor Info, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8007 FMCG",
+            "imgUlr" : "assets/diaries/executive/D 8007 FMCG.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8007 FMCG oth1.jpg",
+                "assets/diaries/executive/D 8007 oth2.jpg",
+                "assets/diaries/executive/D 8007 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Cutting",
+            "info" : "8 State maps, Two Color Doctor Info, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8007 CG",
+            "imgUlr" : "assets/diaries/executive/D 8007 CG.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8007 CG oth1.jpg",
+                "assets/diaries/executive/D 8007 oth2.jpg",
+                "assets/diaries/executive/D 8007 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Cutting",
+            "info" : "8 State maps, Two Color Doctor Info, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8009 PP",
+            "imgUlr" : "assets/diaries/executive/D 8009 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8009 PP oth1.jpg",
+                "assets/diaries/executive/D 8009 oth2.jpg",
+                "assets/diaries/executive/D 8009 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Index Cutting, Textured Paper",
+            "info" : "8 State maps, Two Color Doctor Info, One Day a Page Natural Paper, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8009 FM",
+            "imgUlr" : "assets/diaries/executive/D 8009 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8009 FM oth1.jpg",
+                "assets/diaries/executive/D 8009 oth2.jpg",
+                "assets/diaries/executive/D 8009 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Index Cutting, Textured Paper",
+            "info" : "8 State maps, Two Color Doctor Info, One Day a Page Natural Paper, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8009 PPSP",
+            "imgUlr" : "assets/diaries/executive/D 8009 PPSP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8009 PPSP oth1.jpg",
+                "assets/diaries/executive/D 8009 oth2.jpg",
+                "assets/diaries/executive/D 8009 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Index Cutting, Textured Paper",
+            "info" : "8 State maps, Two Color Doctor Info, One Day a Page Natural Paper, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8009 CG",
+            "imgUlr" : "assets/diaries/executive/D 8009 CG.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8009 CG oth1.jpg",
+                "assets/diaries/executive/D 8009 oth2.jpg",
+                "assets/diaries/executive/D 8009 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Index Cutting, Textured Paper",
+            "info" : "8 State maps, Two Color Doctor Info, One Day a Page Natural Paper, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8009 CG-3",
+            "imgUlr" : "assets/diaries/executive/D 8009 CG-3.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8009 CG-3 oth1.jpg",
+                "assets/diaries/executive/D 8009 oth2.jpg",
+                "assets/diaries/executive/D 8009 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Index Cutting, Textured Paper",
+            "info" : "8 State maps, Two Color Doctor Info, One Day a Page Natural Paper, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8014 PP",
+            "imgUlr" : "assets/diaries/executive/D 8014 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8014 PP oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "48 Pages, Index 16 pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Index Cutting",
+            "info" : "8 State maps, Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8014 IMP",
+            "imgUlr" : "assets/diaries/executive/D 8014 IMP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8014 IMP oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "48 Pages, Index 16 pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Index Cutting",
+            "info" : "8 State maps, Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8014 FMCG",
+            "imgUlr" : "assets/diaries/executive/D 8014 FMCG.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8014 FMCG oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "48 Pages, Index 16 pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Index Cutting",
+            "info" : "8 State maps, Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8015 PP",
+            "imgUlr" : "assets/diaries/executive/D 8015 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8015 PP oth1.jpg",
+                "assets/diaries/executive/D 8015 oth2.jpg"
+            ],
+            "size" : "6.97 inch x 9.25 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8015 CL",
+            "imgUlr" : "assets/diaries/executive/D 8015 CL.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8015 CL oth1.jpg",
+                "assets/diaries/executive/D 8015 oth2.jpg"
+            ],
+            "size" : "6.97 inch x 9.25 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8015 FM",
+            "imgUlr" : "assets/diaries/executive/D 8015 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8015 FM oth1.jpg",
+                "assets/diaries/executive/D 8015 oth2.jpg"
+            ],
+            "size" : "6.97 inch x 9.25 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8015 CG",
+            "imgUlr" : "assets/diaries/executive/D 8015 CG.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8015 CG oth1.jpg",
+                "assets/diaries/executive/D 8015 oth2.jpg"
+            ],
+            "size" : "6.97 inch x 9.25 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8016 PP",
+            "imgUlr" : "assets/diaries/executive/D 8016 PP.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8016 PP oth1.jpg",
+                "assets/diaries/executive/D 8016 oth2.jpg",
+                "assets/diaries/executive/D 8016 oth3.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Velvet Lamination, Foil Stamped, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8016 FMCG",
+            "imgUlr" : "assets/diaries/executive/D 8016 FMCG.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8016 FMCG oth1.jpg",
+                "assets/diaries/executive/D 8016 oth2.jpg",
+                "assets/diaries/executive/D 8016 oth3.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Velvet Lamination, Foil Stamped, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8016 FM",
+            "imgUlr" : "assets/diaries/executive/D 8016 FM.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8016 FM oth1.jpg",
+                "assets/diaries/executive/D 8016 oth2.jpg",
+                "assets/diaries/executive/D 8016 oth3.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Velvet Lamination, Foil Stamped, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8016 CGMR",
+            "imgUlr" : "assets/diaries/executive/D 8016 CGMR.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8016 CGMR oth1.jpg",
+                "assets/diaries/executive/D 8016 oth2.jpg",
+                "assets/diaries/executive/D 8016 oth3.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Velvet Lamination, Foil Stamped, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8016 CGRB",
+            "imgUlr" : "assets/diaries/executive/D 8016 CGRB.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8016 CGRB oth1.jpg",
+                "assets/diaries/executive/D 8016 oth2.jpg",
+                "assets/diaries/executive/D 8016 oth3.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Velvet Lamination, Foil Stamped, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8021 PP",
+            "imgUlr" : "assets/diaries/executive/D 8021 PP.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8021 PP oth1.jpg",
+                "assets/diaries/executive/D 8021 oth2.jpg",
+                "assets/diaries/executive/D 8021 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped",
+            "info" : "Two Color Inner, Two Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8021 CG",
+            "imgUlr" : "assets/diaries/executive/D 8021 CG.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8021 CG oth1.jpg",
+                "assets/diaries/executive/D 8021 oth2.jpg",
+                "assets/diaries/executive/D 8021 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped",
+            "info" : "Two Color Inner, Two Day a Page, Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8023 PP",
+            "imgUlr" : "assets/diaries/executive/D 8023 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8023 PP oth1.jpg",
+                "assets/diaries/executive/D 8023 oth2.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped",
+            "info" : "One Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8023 FM",
+            "imgUlr" : "assets/diaries/executive/D 8023 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8023 FM oth1.jpg",
+                "assets/diaries/executive/D 8023 oth2.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped",
+            "info" : "One Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8023 CG",
+            "imgUlr" : "assets/diaries/executive/D 8023 CG.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8023 CG oth1.jpg",
+                "assets/diaries/executive/D 8023 oth2.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped",
+            "info" : "One Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8023 ML-GD",
+            "imgUlr" : "assets/diaries/executive/D 8023 ML-GD.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8023 ML-GD oth1.jpg",
+                "assets/diaries/executive/D 8023 oth2.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages information, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped",
+            "info" : "One Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8023E PP",
+            "imgUlr" : "assets/diaries/executive/D 8023E PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8023E PP oth1.jpg",
+                "assets/diaries/executive/D 8023 oth2.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "Engineering-Information 64 pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "Two Color Engg. info, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8023E FM",
+            "imgUlr" : "assets/diaries/executive/D 8023E FM.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8023E FM oth1.jpg",
+                "assets/diaries/executive/D 8023 oth2.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "Engineering-Information 64 pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "Two Color Engg. info, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8024 WR",
+            "imgUlr" : "assets/diaries/executive/D 8024 WR.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8024 WR oth1.jpg",
+                "assets/diaries/executive/D 8024 oth2.jpg",
+                "assets/diaries/executive/D 8024 oth3.jpg"
+            ],
+            "size" : "7.35 inch x 9.7 inch",
+            "fea" : "15 Months Appointments Planner",
+            "info" : "Two Color Inner, Monthly Pages"
+        },
+        {
+            "code" : "D 8025 PP",
+            "imgUlr" : "assets/diaries/executive/D 8025 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8025 PP oth1.jpg",
+                "assets/diaries/executive/D 8025 oth2.jpg",
+                "assets/diaries/executive/D 8025 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Action Planner on begining of every month, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8025 IMP",
+            "imgUlr" : "assets/diaries/executive/D 8025 IMP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8025 IMP oth1.jpg",
+                "assets/diaries/executive/D 8025 oth2.jpg",
+                "assets/diaries/executive/D 8025 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Action Planner on begining of every month, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8025 FM",
+            "imgUlr" : "assets/diaries/executive/D 8025 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8025 FM oth1.jpg",
+                "assets/diaries/executive/D 8025 oth2.jpg",
+                "assets/diaries/executive/D 8025 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Action Planner on begining of every month, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8025 CG-BLUE",
+            "imgUlr" : "assets/diaries/executive/D 8025 CG BLUE.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8025 CG BLUE oth1.jpg",
+                "assets/diaries/executive/D 8025 oth2.jpg",
+                "assets/diaries/executive/D 8025 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Action Planner on begining of every month, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8025 CG-RED",
+            "imgUlr" : "assets/diaries/executive/D 8025 CG RED.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8025 CG RED oth1.jpg",
+                "assets/diaries/executive/D 8025 oth2.jpg",
+                "assets/diaries/executive/D 8025 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Action Planner on begining of every month, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8025 FD3-BOX",
+            "imgUlr" : "assets/diaries/executive/D 8025 FD3 BOX.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8025 FD3 BOX oth1.jpg",
+                "assets/diaries/executive/D 8025 oth2.jpg",
+                "assets/diaries/executive/D 8025 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Action Planner on begining of every month, n Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8025E",
+            "imgUlr" : "assets/diaries/executive/D 8025E.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8025E oth1.jpg",
+                "assets/diaries/executive/D 8025 oth2.jpg",
+                "assets/diaries/executive/D 8025 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "Engineering-Information 64 pages, Yearly Planner on backfly leaf, UV Varnished, Action Planner on begining of every month, n Wise Index Cutting",
+            "info" : "Two Color Engg. info, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8032 PP",
+            "imgUlr" : "assets/diaries/executive/D 8032 PP.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8032 PP oth1.jpg",
+                "assets/diaries/executive/D 8032 oth2.jpg",
+                "assets/diaries/executive/D 8032 oth3.jpg",
+                "assets/diaries/executive/D 8032 oth4.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Cutting",
+            "info" : "8 State maps, Two Color Inner, One Day a Page, Double Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8032 ML",
+            "imgUlr" : "assets/diaries/executive/D 8032 ML.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8032 ML oth1.jpg",
+                "assets/diaries/executive/D 8032 oth2.jpg",
+                "assets/diaries/executive/D 8032 oth3.jpg",
+                "assets/diaries/executive/D 8032 oth4.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Cutting",
+            "info" : "8 State maps, Two Color Inner, One Day a Page, Double Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8032 FMCG",
+            "imgUlr" : "assets/diaries/executive/D 8032 FMCG.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8032 FMCG oth1.jpg",
+                "assets/diaries/executive/D 8032 oth2.jpg",
+                "assets/diaries/executive/D 8032 oth3.jpg",
+                "assets/diaries/executive/D 8032 oth4.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, n Wise Cutting",
+            "info" : "8 State maps, Two Color Inner, One Day a Page, Double Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8032 LT",
+            "imgUlr" : "assets/diaries/executive/D 8032 LT.jpeg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8032 LT oth1.jpg",
+                "assets/diaries/executive/D 8032 oth2.jpg",
+                "assets/diaries/executive/D 8032 oth3.jpg",
+                "assets/diaries/executive/D 8032 oth4.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Velvet Lamination, Month Wise Cutting",
+            "info" : "8 State maps, Two Color Inner, One Day a Page, Double Action Plan on beginning of every month"
+        },
+        {
+            "code" : "D 8039 PP",
+            "imgUlr" : "assets/diaries/executive/D 8039 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8039 PP oth1.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, Craft paper title",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8039 IMP",
+            "imgUlr" : "assets/diaries/executive/D 8039 IMP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8039 IMP oth1.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, Craft paper title",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8039 FM",
+            "imgUlr" : "assets/diaries/executive/D 8039 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8039 FM oth1.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, Craft paper title",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8039 NCG",
+            "imgUlr" : "assets/diaries/executive/D 8039 NCG.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8039 NCG oth1.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, Craft paper title",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8039 CG",
+            "imgUlr" : "assets/diaries/executive/D 8039 CG.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8039 CG oth1.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, Craft paper title",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8039 ML",
+            "imgUlr" : "assets/diaries/executive/D 8039 ML.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8039 ML oth1.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, Craft paper title",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8039 WOOD",
+            "imgUlr" : "assets/diaries/executive/D 8039 WOOD.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8039 WOOD oth1.jpg"
+            ],
+            "size" : "9.625 inch x 10.3 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, Craft paper title",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8042 PP",
+            "imgUlr" : "assets/diaries/executive/D 8042 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8042 PP oth1.jpg",
+                "assets/diaries/executive/D 8042 oth2.jpg",
+                "assets/diaries/executive/D 8042 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Action plan in beginning of every month, UV Varnished",
+            "info" : "WIRO Diary, Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8042 WOOD",
+            "imgUlr" : "assets/diaries/executive/D 8042 WOOD.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8042 WOOD oth1.jpg",
+                "assets/diaries/executive/D 8042 oth2.jpg",
+                "assets/diaries/executive/D 8042 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Action plan in beginning of every month, UV Varnished",
+            "info" : "WIRO Diary, Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8042 FD",
+            "imgUlr" : "assets/diaries/executive/D 8042 FD.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8042 FD oth1.jpg",
+                "assets/diaries/executive/D 8042 oth2.jpg",
+                "assets/diaries/executive/D 8042 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Action plan in beginning of every month, UV Varnished",
+            "info" : "WIRO Diary, Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8044 PP",
+            "imgUlr" : "assets/diaries/executive/D 8044 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8044 PP oth1.jpg",
+                "assets/diaries/executive/D 8044 oth2.jpg",
+                "assets/diaries/executive/D 8044 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, Action plan in beginning of every month, UV Varnished, Foil Stamped, Month Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8044 FM",
+            "imgUlr" : "assets/diaries/executive/D 8044 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8044 FM oth1.jpg",
+                "assets/diaries/executive/D 8044 oth2.jpg",
+                "assets/diaries/executive/D 8044 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, Action plan in beginning of every month, UV Varnished, Foil Stamped, Month Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8044 CG2",
+            "imgUlr" : "assets/diaries/executive/D 8044 CG2.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8044 CG2 oth1.jpg",
+                "assets/diaries/executive/D 8044 oth2.jpg",
+                "assets/diaries/executive/D 8044 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, Action plan in beginning of every month, UV Varnished, Foil Stamped, Month Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8045 PP",
+            "imgUlr" : "assets/diaries/executive/D 8045 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8045 PP oth1.jpg",
+                "assets/diaries/executive/D 8045 oth2.jpg",
+                "assets/diaries/executive/D 8045 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Month Wise Index Cutting",
+            "info" : "\"Multi Color Rainbow Diary\", One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8045 CG5",
+            "imgUlr" : "assets/diaries/executive/D 8045 CG5.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8045 CG5 oth1.jpg",
+                "assets/diaries/executive/D 8045 oth2.jpg",
+                "assets/diaries/executive/D 8045 oth3.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Month Wise Index Cutting",
+            "info" : "\"Multi Color Rainbow Diary\", One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8048",
+            "imgUlr" : "assets/diaries/executive/D 8048.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8048 oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "24 photos of Lord Ganesha, 16 Pages, Yearly Planner on backfly leaf, Action plan in beginning of every month, UV Varnished",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8049",
+            "imgUlr" : "assets/diaries/executive/D 8049.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8049 oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "24 photos of Lord Krishna, 16 Pages, Yearly Planner on backfly leaf, Action plan in beginning of every month, UV Varnished",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8050",
+            "imgUlr" : "assets/diaries/executive/D 8050.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8050 oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "24 photos of Lord Sai Baba, 16 Pages, Yearly Planner on backfly leaf, Action plan in beginning of every month, UV Varnished",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        },
+        {
+            "code" : "D 8051",
+            "imgUlr" : "assets/diaries/executive/D 8051.jpg",
+            "imgArr" : [
+                "assets/diaries/executive/D 8051 oth1.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "24 photos of Lord Hanuman, 16 Pages, Yearly Planner on backfly leaf, Action plan in beginning of every month, UV Varnished",
+            "info" : "Two Color Inner, One Day a Page, Sunday Seperate"
+        }
+    ]
+}

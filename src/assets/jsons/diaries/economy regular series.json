@@ -1,0 +1,292 @@
+{
+    "about": "This is Economy Regular Series diaries",
+    "data": [
+        {
+            "code" : "D 2001 PP",
+            "imgUlr" : "assets/diaries/ers/D 2001 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 2001 PP oth1.jpg",
+                "assets/diaries/ers/D 2001 oth2.jpg"
+            ],
+            "size" : "2.9 inch x 4.6 inch",
+            "fea" : "4 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 2002 FM",
+            "imgUlr" : "assets/diaries/ers/D 2002 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 2002 FM oth1.jpg",
+                "assets/diaries/ers/D 2002 oth2.jpg"
+            ],
+            "size" : "2.9 inch x 4.6 inch",
+            "fea" : "4 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 5511 PP",
+            "imgUlr" : "assets/diaries/ers/D 5511 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 5511 PP oth1.jpg",
+                "assets/diaries/ers/D 5511 oth2.jpg"
+            ],
+            "size" : "5 inch x 8 inch",
+            "fea" : "4 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 5511 RX",
+            "imgUlr" : "assets/diaries/ers/D 5511 RX.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 5511 RX oth1.jpg",
+                "assets/diaries/ers/D 5511 oth2.jpg"
+            ],
+            "size" : "5 inch x 8 inch",
+            "fea" : "4 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 5502 PP",
+            "imgUlr" : "assets/diaries/ers/D 5502 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 5502 PP oth1.jpg",
+                "assets/diaries/ers/D 5502 oth2.jpg"
+            ],
+            "size" : "5 inch x 8 inch",
+            "fea" : "8 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 5502 RX",
+            "imgUlr" : "assets/diaries/ers/D 5502 RX.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 5502 RX oth1.jpg",
+                "assets/diaries/ers/D 5502 oth2.jpg"
+            ],
+            "size" : "5 inch x 8 inch",
+            "fea" : "8 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 5502 SPR",
+            "imgUlr" : "assets/diaries/ers/D 5502 SPR.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 5502 SPR oth1.jpg",
+                "assets/diaries/ers/D 5502 oth2.jpg"
+            ],
+            "size" : "5 inch x 8 inch",
+            "fea" : "8 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 6011 PP",
+            "imgUlr" : "assets/diaries/ers/D 6011 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 6011 PP oth1.jpg",
+                "assets/diaries/ers/D 6011 oth2.jpg"
+            ],
+            "size" : "5.5 inch x 8.7 inch",
+            "fea" : "4 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 6011 RX",
+            "imgUlr" : "assets/diaries/ers/D 6011 RX.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 6011 RX oth1.jpg",
+                "assets/diaries/ers/D 6011 oth2.jpg"
+            ],
+            "size" : "5.5 inch x 8.7 inch",
+            "fea" : "4 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 6002 PP",
+            "imgUlr" : "assets/diaries/ers/D 6002 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 6002 PP oth1.jpg",
+                "assets/diaries/ers/D 6002 oth2.jpg"
+            ],
+            "size" : "5.5 inch x 8.7 inch",
+            "fea" : "8 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 6002 RX",
+            "imgUlr" : "assets/diaries/ers/D 6002 RX.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 6002 RX oth1.jpg",
+                "assets/diaries/ers/D 6002 oth2.jpg"
+            ],
+            "size" : "5.5 inch x 8.7 inch",
+            "fea" : "8 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 6002 SPR",
+            "imgUlr" : "assets/diaries/ers/D 6002 SPR.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 6002 SPR oth1.jpg",
+                "assets/diaries/ers/D 6002 oth2.jpg"
+            ],
+            "size" : "5.5 inch x 8.7 inch",
+            "fea" : "8 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 6002 ML",
+            "imgUlr" : "assets/diaries/ers/D 6002 ML.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 6002 ML oth1.jpg",
+                "assets/diaries/ers/D 6002 oth2.jpg"
+            ],
+            "size" : "5.5 inch x 8.7 inch",
+            "fea" : "8 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7011 PP",
+            "imgUlr" : "assets/diaries/ers/D 7011 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 7011 PP oth1.jpg",
+                "assets/diaries/ers/D 7011 oth2.jpg"
+            ],
+            "size" : "6.3 inch x 8 inch",
+            "fea" : "4 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 7011 RX",
+            "imgUlr" : "assets/diaries/ers/D 7011 RX.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 7011 RX oth1.jpg",
+                "assets/diaries/ers/D 7011 oth2.jpg"
+            ],
+            "size" : "6.3 inch x 8 inch",
+            "fea" : "4 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 8011 PP",
+            "imgUlr" : "assets/diaries/ers/D 8011 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 8011 PP oth1.jpg",
+                "assets/diaries/ers/D 8011 oth2.jpg"
+            ],
+            "size" : "6.8 inch x 9.1 inch",
+            "fea" : "4 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 8011 RX",
+            "imgUlr" : "assets/diaries/ers/D 8011 RX.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 8011 RX oth1.jpg",
+                "assets/diaries/ers/D 8011 oth2.jpg"
+            ],
+            "size" : "6.8 inch x 9.1 inch",
+            "fea" : "4 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 8002 PP",
+            "imgUlr" : "assets/diaries/ers/D 8002 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 8002 PP oth1.jpg",
+                "assets/diaries/ers/D 8002 oth2.jpg"
+            ],
+            "size" : "6.8 inch x 9.1 inch",
+            "fea" : "8 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8002 RX",
+            "imgUlr" : "assets/diaries/ers/D 8002 RX.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 8002 PP oth1.jpg",
+                "assets/diaries/ers/D 8002 oth2.jpg"
+            ],
+            "size" : "6.8 inch x 9.1 inch",
+            "fea" : "8 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8002 SPR",
+            "imgUlr" : "assets/diaries/ers/D 8002 SPR.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 8002 SPR oth1.jpg",
+                "assets/diaries/ers/D 8002 oth2.jpg"
+            ],
+            "size" : "6.8 inch x 9.1 inch",
+            "fea" : "8 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8002 ML",
+            "imgUlr" : "assets/diaries/ers/D 8002 ML.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 8002 ML oth1.jpg",
+                "assets/diaries/ers/D 8002 oth2.jpg"
+            ],
+            "size" : "6.8 inch x 9.1 inch",
+            "fea" : "8 Pages, India map on Front Fly Leaf, World Map on the Back Fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8012 PP",
+            "imgUlr" : "assets/diaries/ers/D 8012 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 8012 PP oth1.jpg",
+                "assets/diaries/ers/D 8012 oth2.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "8 Pages, Yearly Planner on The Back fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8012 RX",
+            "imgUlr" : "assets/diaries/ers/D 8012 RX.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 8012 RX oth1.jpg",
+                "assets/diaries/ers/D 8012 oth2.jpg"
+
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "8 Pages, Yearly Planner on The Back fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8012 SPR",
+            "imgUlr" : "assets/diaries/ers/D 8012 SPR.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 8012 SPR oth1.jpg",
+                "assets/diaries/ers/D 8012 oth2.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "8 Pages, Yearly Planner on The Back fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8012 ML",
+            "imgUlr" : "assets/diaries/ers/D 8012 ML.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 8012 ML oth1.jpg",
+                "assets/diaries/ers/D 8012 oth2.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "8 Pages, Yearly Planner on The Back fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 8012 FDLR",
+            "imgUlr" : "assets/diaries/ers/D 8012 FDLR.jpg",
+            "imgArr" : [
+                "assets/diaries/ers/D 8012 FDLR oth1.jpg",
+                "assets/diaries/ers/D 8012 oth2.jpg"
+            ],
+            "size" : "7.125 inch x 9.7 inch",
+            "fea" : "8 Pages, Yearly Planner on The Back fly leaf",
+            "info" : "One Color Inner, One Day a Page"
+        }
+    ]
+}

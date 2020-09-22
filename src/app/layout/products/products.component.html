@@ -1,0 +1,24 @@
+<div class="wrapper">
+  <div class="sub-header">
+    <div class="title">
+      {{title}}
+    </div>
+    <div class="search">
+      <input type="text" placeholder="Search" name="search" #search="ngModel" [(ngModel)]="searchValue" (keyup.enter)="applySearch()">
+      <button (click)="applySearch()"><i class="fa fa-search"></i></button>
+    </div>
+  </div>
+  <div class="content">
+    <div class="info">
+      <h2>{{range}} {{title}}</h2>
+      <p>{{info}}</p>
+    </div>
+    <div class="grid">
+      <div *ngFor="let prod of productList" class="item" (click)="goTodetails(prod)">
+          <span></span>
+          <img src="{{prod.imgUlr}}">
+          <div class="label">{{prod.code}}</div>
+      </div>
+    </div>
+  </div>
+</div>

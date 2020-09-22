@@ -1,0 +1,170 @@
+
+.footer {
+    width: 100%;
+    background-color: #1c1c1c;
+    overflow: hidden;
+}
+
+.container {
+    width: 94%;
+    margin: 0 3%;
+    padding: 1% 0;
+    display: flex;
+    overflow: hidden;
+}
+
+.ft-col-2 {
+    margin: .6em 0;
+    padding: .6em 5% 1.8em 5%;
+    border-left: 2px solid #323232;
+    float: left;
+    overflow: hidden;
+    width: 20%;
+    .link-wrap {
+        width: 100%;
+        float: left;
+    }
+}
+
+.ft-col-4 {
+    margin: .6em 0;
+    padding: .6em 3%;
+    border-left: 2px solid #323232;
+    float: left;
+    width: 25%;
+    overflow: hidden;
+    .link-wrap {
+        width: 100%;
+        float: left;
+    }
+}
+
+.arrange {
+    float: left;
+    display: grid;
+    -ms-grid-columns: 50% 50%;
+    grid-template-columns: 50% 50%;
+    grid-gap: 5px;
+    width: 100%;
+    line-height: 1.3;
+
+    i {
+        font-size: 11px;
+        margin-right: 3%;
+        width: 10%;
+    }
+
+    .iconWidth {
+            width: 6%;
+        }
+}
+
+.arrange2 {
+    float: left;
+    display: grid;
+    grid-gap: 5px;
+    width: 100%;
+    line-height: 1.3;
+
+    i {
+        font-size: 11px;
+        margin-right: 3%;
+        width: 10%;
+    }
+
+    .iconWidth {
+            width: 6%;
+        }
+}
+
+.footer-head {
+    padding-bottom: 15px; 
+    color: #ffffff;
+    font-size: 2vh;
+}
+
+#dsc-logo {
+    width: 30%;
+    float: left;
+}
+
+#dsc-logo img {
+    width: 40%; padding: 15px;
+}
+
+.arrange li a {
+    color: #c5c5c5;
+    list-style: none;
+    text-decoration: none;
+    font-size: 1.4vh;
+}
+
+.arrange2 li a {
+    color: #c5c5c5;
+    list-style: none;
+    text-decoration: none;
+    font-size: 1.4vh;
+}
+
+// .arrange {
+//     a:hover {
+//         cursor: pointer;
+//     }
+// }
+
+.adj {
+    padding: .7% 3%;
+    width: 100%;
+    margin: 0;
+    font-size: 10px;
+    color: #606060;
+    background: #0d0d0d;
+    float: left;
+}
+
+.fhc {
+    color: #ffffff;
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        display: grid;
+    }
+    #dsc-logo {
+        width: 100%;
+        border-bottom: 2px solid #323232;
+        img {
+            padding: 15px 25%;
+        }
+    }
+    .ft-col-2 {
+        width: 100%;
+        border-left: none;
+        border-bottom: 2px solid #323232;
+    }
+
+    .ft-col-4 {
+        width: 100%;
+        border-left: none;
+    }
+
+    .adj {
+        padding: 4% 0;
+        text-align: center;
+    }
+
+    .arrange li a{
+        font-size: .9em;
+    }
+
+    :host-context([lang="ar"]) {
+        .ft-col-2 {
+            width: 94%;
+            padding: .6em 5% 1.8em 0;
+        }
+        .ft-col-4 {
+            width: 94%;
+            padding: .6em 3% .6em 0;
+        }
+    }
+}

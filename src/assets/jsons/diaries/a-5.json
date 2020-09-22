@@ -1,0 +1,295 @@
+{
+    "about": "This is A-5 diaries",
+    "data": [
+        {
+            "code" : "D 7005 PP",
+            "imgUlr" : "assets/diaries/A-5/D 7005 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7005 PP oth1.jpg",
+                "assets/diaries/A-5/D 7005 oth2.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7005 CL",
+            "imgUlr" : "assets/diaries/A-5/D 7005 CL.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7005 CL oth1.jpg",
+                "assets/diaries/A-5/D 7005 oth2.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7005 CG",
+            "imgUlr" : "assets/diaries/A-5/D 7005 CG.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7005 CG oth1.jpg",
+                "assets/diaries/A-5/D 7005 oth2.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7005 CG-GOLD",
+            "imgUlr" : "assets/diaries/A-5/D 7005 CG GOLD.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7005 CG GOLD oth1.jpeg",
+                "assets/diaries/A-5/D 7005 oth2.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7007 PP",
+            "imgUlr" : "assets/diaries/A-5/D 7007 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7007 PP oth1.jpg",
+                "assets/diaries/A-5/D 7007 oth2.jpg",
+                "assets/diaries/A-5/D 7007 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7007 IMP",
+            "imgUlr" : "assets/diaries/A-5/D 7007 IMP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7007 IMP oth1.jpg",
+                "assets/diaries/A-5/D 7007 oth2.jpg",
+                "assets/diaries/A-5/D 7007 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7007 CG",
+            "imgUlr" : "assets/diaries/A-5/D 7007 CG.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7007 CG oth1.jpg",
+                "assets/diaries/A-5/D 7007 oth2.jpg",
+                "assets/diaries/A-5/D 7007 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7009 PP",
+            "imgUlr" : "assets/diaries/A-5/D 7009 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7009 PP oth1.jpg",
+                "assets/diaries/A-5/D 7009 oth2.jpg",
+                "assets/diaries/A-5/D 7009 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished Foil Stamped, Mouth Wise Index Cutting, Action Plan in beginning of every month",
+            "info" : "Two Color Inner, One Day a Page, Natural Graining Paper"
+        },
+        {
+            "code" : "D 7009 IMP",
+            "imgUlr" : "assets/diaries/A-5/D 7009 IMP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7009 IMP oth1.jpg",
+                "assets/diaries/A-5/D 7009 oth2.jpg",
+                "assets/diaries/A-5/D 7009 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished Foil Stamped, Mouth Wise Index Cutting, Action Plan in beginning of every month",
+            "info" : "Two Color Inner, One Day a Page, Natural Graining Paper"
+        },
+        {
+            "code" : "D 7009 PPSP",
+            "imgUlr" : "assets/diaries/A-5/D 7009 PPSP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7009 PPSP oth1.jpg",
+                "assets/diaries/A-5/D 7009 oth2.jpg",
+                "assets/diaries/A-5/D 7009 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished Foil Stamped, Mouth Wise Index Cutting, Action Plan in beginning of every month",
+            "info" : "Two Color Inner, One Day a Page, Natural Graining Paper"
+        },
+        {
+            "code" : "D 7009 FMCG",
+            "imgUlr" : "assets/diaries/A-5/D 7009 FMCG.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7009 FMCG oth1.jpg",
+                "assets/diaries/A-5/D 7009 oth2.jpg",
+                "assets/diaries/A-5/D 7009 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished Foil Stamped, Mouth Wise Index Cutting, Action Plan in beginning of every month",
+            "info" : "Two Color Inner, One Day a Page, Natural Graining Paper"
+        },
+        {
+            "code" : "D 7014 PP",
+            "imgUlr" : "assets/diaries/A-5/D 7014 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7014 PP oth1.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished Foil Stamped, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Organiser Diary with addl. Info-Projects-travel-Index"
+        },
+        {
+            "code" : "D 7014 IMP",
+            "imgUlr" : "assets/diaries/A-5/D 7014 IMP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7014 IMP oth1.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished Foil Stamped, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Organiser Diary with addl. Info-Projects-travel-Index"
+        },
+        {
+            "code" : "D 7014 FMCG",
+            "imgUlr" : "assets/diaries/A-5/D 7014 FMCG.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7014 FMCG oth1.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished Foil Stamped, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Organiser Diary with addl. Info-Projects-travel-Index"
+        },
+        {
+            "code" : "D 7016 PP",
+            "imgUlr" : "assets/diaries/A-5/D 7016 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7016 PP oth1.jpg",
+                "assets/diaries/A-5/D 7016 oth2.jpg",
+                "assets/diaries/A-5/D 7016 oth3.jpg"
+            ],
+            "size" : "6.25 inch x 9 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished Foil Stamped, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Natural Paper, Action Plan in beginning of every month"
+        },
+        {
+            "code" : "D 7016 FM",
+            "imgUlr" : "assets/diaries/A-5/D 7016 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7016 FM oth1.jpg",
+                "assets/diaries/A-5/D 7016 oth2.jpg",
+                "assets/diaries/A-5/D 7016 oth3.jpg"
+            ],
+            "size" : "6.25 inch x 9 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished Foil Stamped, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Natural Paper, Action Plan in beginning of every month"
+        },
+        {
+            "code" : "D 7016 CGRB",
+            "imgUlr" : "assets/diaries/A-5/D 7016 CGRB.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7016 CGRB oth1.jpg",
+                "assets/diaries/A-5/D 7016 oth2.jpg",
+                "assets/diaries/A-5/D 7016 oth3.jpg"
+            ],
+            "size" : "6.25 inch x 9 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished Foil Stamped, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Natural Paper, Action Plan in beginning of every month"
+        },
+        {
+            "code" : "D 7042 WOOD",
+            "imgUlr" : "assets/diaries/A-5/D 7042 WOOD.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7042 WOOD oth1.jpg",
+                "assets/diaries/A-5/D 7042 oth2.jpg",
+                "assets/diaries/A-5/D 7042 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7044 PP",
+            "imgUlr" : "assets/diaries/A-5/D 7044 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7044 PP oth1.jpg",
+                "assets/diaries/A-5/D 7044 oth2.jpg",
+                "assets/diaries/A-5/D 7044 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Mouth Wise Index Cutting",
+            "info" : "\"Go-Green\" Theme Diary with 12 Theme Pages, Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7044 FM",
+            "imgUlr" : "assets/diaries/A-5/D 7044 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7044 FM oth1.jpg",
+                "assets/diaries/A-5/D 7044 oth2.jpg",
+                "assets/diaries/A-5/D 7044 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Mouth Wise Index Cutting",
+            "info" : "\"Go-Green\" Theme Diary with 12 Theme Pages, Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7044 CG2",
+            "imgUlr" : "assets/diaries/A-5/D 7044 CG2.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7044 CG2 oth1.jpg",
+                "assets/diaries/A-5/D 7044 oth2.jpg",
+                "assets/diaries/A-5/D 7044 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Mouth Wise Index Cutting",
+            "info" : "\"Go-Green\" Theme Diary with 12 Theme Pages, Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 7045 PP",
+            "imgUlr" : "assets/diaries/A-5/D 7045 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7045 PP oth1.jpg",
+                "assets/diaries/A-5/D 7045 oth2.jpg",
+                "assets/diaries/A-5/D 7045 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Mouth Wise Index Cutting",
+            "info" : "\"Multi Color Rainbow Diary\", Sunday Separate, One Day a Page"
+        },
+        {
+            "code" : "D 7045 CG5",
+            "imgUlr" : "assets/diaries/A-5/D 7045 CG5.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7045 CG5 oth1.jpg",
+                "assets/diaries/A-5/D 7045 oth2.jpg",
+                "assets/diaries/A-5/D 7045 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Mouth Wise Index Cutting",
+            "info" : "\"Multi Color Rainbow Diary\", Sunday Separate, One Day a Page"
+        },
+        {
+            "code" : "D 7058 PP",
+            "imgUlr" : "assets/diaries/A-5/D 7058 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7058 PP oth1.jpg",
+                "assets/diaries/A-5/D 7058 oth2.jpg",
+                "assets/diaries/A-5/D 7058 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Mouth Wise Index Cutting, Action plan at beginning of every month",
+            "info" : "\"Be The Change\" Theme Diary with 12 Theme Pages, Multi Color Inner with natural paper, One Day a Page"
+        },
+        {
+            "code" : "D 7058 CG",
+            "imgUlr" : "assets/diaries/A-5/D 7058 CG.jpg",
+            "imgArr" : [
+                "assets/diaries/A-5/D 7058 CG oth1.jpg",
+                "assets/diaries/A-5/D 7058 oth2.jpg",
+                "assets/diaries/A-5/D 7058 oth3.jpg"
+            ],
+            "size" : "6 inch x 8.6 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Foil Stamped, Mouth Wise Index Cutting, Action plan at beginning of every month",
+            "info" : "\"Be The Change\" Theme Diary with 12 Theme Pages, Multi Color Inner with natural paper, One Day a Page"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "about": "This is personal diaries",
+    "data": [
+        {
+            "code" : "D 3502 PP",
+            "imgUlr" : "assets/diaries/personal/D 3502 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/personal/D 3502 PP oth1.jpg",
+                "assets/diaries/personal/D 3502 oth2.jpg"
+            ],
+            "size" : "18.7 cms x 16.5 cms",
+            "fea" : "16 Pages, Orientation-Horizontal",
+            "info" : "Two Color Inner, Three Day a Page"
+        },
+        {
+            "code" : "D 3502 FM",
+            "imgUlr" : "assets/diaries/personal/D 3502 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/personal/D 3502 FM oth1.jpg",
+                "assets/diaries/personal/D 3502 oth2.jpg"
+            ],
+            "size" : "18.7 cms x 16.5 cms",
+            "fea" : "16 Pages, Orientation-Horizontal",
+            "info" : "Two Color Inner, Three Day a Page"
+        },
+        {
+            "code" : "D 3503 PP",
+            "imgUlr" : "assets/diaries/personal/D 3503 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/personal/D 3503 PP oth1.jpg",
+                "assets/diaries/personal/D 3503 oth2.jpg"
+            ],
+            "size" : "18.7 cms x 16.5 cms",
+            "fea" : "16 Pages, Orientation-Vertical",
+            "info" : "Two Color Inner, Three Day a Page"
+        },
+        {
+            "code" : "D 3503 FM",
+            "imgUlr" : "assets/diaries/personal/D 3503 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/personal/D 3503 FM oth1.jpg",
+                "assets/diaries/personal/D 3503 oth2.jpg"
+            ],
+            "size" : "18.7 cms x 16.5 cms",
+            "fea" : "16 Pages, Orientation-Vertical",
+            "info" : "Two Color Inner, Three Day a Page"
+        },
+        {
+            "code" : "D 3503 NCG",
+            "imgUlr" : "assets/diaries/personal/D 3503 NCG.jpg",
+            "imgArr" : [
+                "assets/diaries/personal/D 3503 NCG oth1.jpg",
+                "assets/diaries/personal/D 3503 oth2.jpg"
+            ],
+            "size" : "18.7 cms x 16.5 cms",
+            "fea" : "16 Pages, Orientation-Vertical",
+            "info" : "Two Color Inner, Three Day a Page"
+        },
+        {
+            "code" : "D 3504 PP",
+            "imgUlr" : "assets/diaries/personal/D 3504 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/personal/D 3504 PP oth1.jpg",
+                "assets/diaries/personal/D 3504 oth2.jpg"
+            ],
+            "size" : "3.45 inch x 6.5 inch",
+            "fea" : "16 Pages",
+            "info" : "Two Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 3504 FM",
+            "imgUlr" : "assets/diaries/personal/D 3504 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/personal/D 3504 FM oth1.jpg",
+                "assets/diaries/personal/D 3504 oth2.jpg"
+            ],
+            "size" : "3.45 inch x 6.5 inch",
+            "fea" : "16 Pages",
+            "info" : "Two Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 3504 NCG",
+            "imgUlr" : "assets/diaries/personal/D 3504 NCG.jpg",
+            "imgArr" : [
+                "assets/diaries/personal/D 3504 NCG oth1.jpg",
+                "assets/diaries/personal/D 3504 oth2.jpg"
+            ],
+            "size" : "3.45 inch x 6.5 inch",
+            "fea" : "16 Pages",
+            "info" : "Two Color Inner, Two Day a Page"
+        },
+        {
+            "code" : "D 3505 PP",
+            "imgUlr" : "assets/diaries/personal/D 3505 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/personal/D 3505 PP oth1.jpg",
+                "assets/diaries/personal/D 3505 oth2.jpg"
+            ],
+            "size" : "3.45 inch x 6.5 inch",
+            "fea" : "16 Pages",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 3505 FM",
+            "imgUlr" : "assets/diaries/personal/D 3505 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/personal/D 3505 FM oth1.jpg",
+                "assets/diaries/personal/D 3505 oth2.jpg"
+            ],
+            "size" : "3.45 inch x 6.5 inch",
+            "fea" : "16 Pages",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 3505 NCG",
+            "imgUlr" : "assets/diaries/personal/D 3505 NCG.jpg",
+            "imgArr" : [
+                "assets/diaries/personal/D 3505 NCG oth1.jpg",
+                "assets/diaries/personal/D 3505 oth2.jpg"
+            ],
+            "size" : "3.45 inch x 6.5 inch",
+            "fea" : "16 Pages",
+            "info" : "Two Color Inner, One Day a Page"
+        }
+    ]
+}

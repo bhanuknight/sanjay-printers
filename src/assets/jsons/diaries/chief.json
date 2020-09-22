@@ -1,0 +1,138 @@
+{
+    "about": "This is Chief diaries",
+    "data": [
+        {
+            "code" : "D 5503 PP",
+            "imgUlr" : "assets/diaries/chief/D 5503 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 5503 PP oth1.jpg",
+                "assets/diaries/chief/D 5503 oth2.jpg"
+            ],
+            "size" : "5 inch x 8.25 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 5503 IMP",
+            "imgUlr" : "assets/diaries/chief/D 5503 IMP.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 5503 IMP oth1.jpg",
+                "assets/diaries/chief/D 5503 oth2.jpg"
+            ],
+            "size" : "5 inch x 8.25 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf",
+            "info" : "Two Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 6003 PP",
+            "imgUlr" : "assets/diaries/chief/D 6003 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 6003 PP oth1.jpg",
+                "assets/diaries/chief/D 6003 oth2.jpg"
+            ],
+            "size" : "5.5 inch x 8.5 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 6003 IMP",
+            "imgUlr" : "assets/diaries/chief/D 6003 IMP.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 6003 IMP oth1.jpg",
+                "assets/diaries/chief/D 6003 oth2.jpg"
+            ],
+            "size" : "5.5 inch x 8.5 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 6003 FM",
+            "imgUlr" : "assets/diaries/chief/D 6003 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 6003 FM oth1.jpg",
+                "assets/diaries/chief/D 6003 oth2.jpg"
+            ],
+            "size" : "5.5 inch x 8.5 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 6003 CG",
+            "imgUlr" : "assets/diaries/chief/D 6003 CG.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 6003 CG oth1.jpg",
+                "assets/diaries/chief/D 6003 oth2.jpg"
+            ],
+            "size" : "5.5 inch x 8.5 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page"
+        },
+        {
+            "code" : "D 6003E",
+            "imgUlr" : "assets/diaries/chief/D 6003E.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 6003E oth1.jpg",
+                "assets/diaries/chief/D 6003 oth2.jpg"
+            ],
+            "size" : "5.5 inch x 8.5 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "One Color Inner, One Day a Page, Sunday Full Page, Engineering Information 64 Pages"
+        },
+        {
+            "code" : "D 6006 PP",
+            "imgUlr" : "assets/diaries/chief/D 6006 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 6006 PP oth1.jpg"
+            ],
+            "size" : "5.5 inch x 8.5 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "Two Color Inner, One Day a Page, Medical Information 64 Pages"
+        },
+        {
+            "code" : "D 6006 FM",
+            "imgUlr" : "assets/diaries/chief/D 6006 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 6006 FM oth1.jpg"
+            ],
+            "size" : "5.5 inch x 8.5 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished",
+            "info" : "Two Color Inner, One Day a Page, Medical Information 64 Pages"
+        },
+        {
+            "code" : "D 6007 PP",
+            "imgUlr" : "assets/diaries/chief/D 6007 PP.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 6007 PP oth1.jpg",
+                "assets/diaries/chief/D 6007 oth2.jpg",
+                "assets/diaries/chief/D 6007 oth3.jpg"
+            ],
+            "size" : "5.5 inch x 8.5 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Sunday Full Page"
+        },
+        {
+            "code" : "D 6007 CL",
+            "imgUlr" : "assets/diaries/chief/D 6007 CL.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 6007 CL oth1.jpg",
+                "assets/diaries/chief/D 6007 oth2.jpg",
+                "assets/diaries/chief/D 6007 oth3.jpg"
+            ],
+            "size" : "5.5 inch x 8.5 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Sunday Full Page"
+        },
+        {
+            "code" : "D 6007 FM",
+            "imgUlr" : "assets/diaries/chief/D 6007 FM.jpg",
+            "imgArr" : [
+                "assets/diaries/chief/D 6007 FM oth1.jpg",
+                "assets/diaries/chief/D 6007 oth2.jpg",
+                "assets/diaries/chief/D 6007 oth3.jpg"
+            ],
+            "size" : "5.5 inch x 8.5 inch",
+            "fea" : "16 Pages, Yearly Planner on backfly leaf, UV Varnished, Mouth Wise Index Cutting",
+            "info" : "Two Color Inner, One Day a Page, Sunday Full Page"
+        }
+    ]
+}
